@@ -1,4 +1,7 @@
 /*
+ * from u-boot v2017.07 lib/crc.8
+ */
+/*
  * crc8.c
  * 
  * Computes a 8-bit CRC 
